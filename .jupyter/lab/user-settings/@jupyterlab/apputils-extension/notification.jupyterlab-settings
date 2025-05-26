@@ -1,5 +1,5 @@
 {
-    "checkForUpdates": true,
+    "checkForUpdates": false,
     "doNotDisturbMode": true,
     "fetchNews": "none"
 }
